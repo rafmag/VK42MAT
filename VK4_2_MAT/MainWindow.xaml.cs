@@ -12,7 +12,7 @@ using MyKeyenceLib;
 namespace VK4_2_MAT
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// logic for MainWindow.xaml
     /// </summary>
 
     public partial class MainWindow : Window
